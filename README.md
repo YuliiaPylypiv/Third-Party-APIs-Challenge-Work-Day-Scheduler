@@ -46,6 +46,7 @@ THEN the saved events persist
 
 Mock-Up
 The following animation demonstrates the application functionality:
+
 ![image](https://github.com/YuliiaPylypiv/Third-Party-APIs-Challenge-Work-Day-Scheduler/assets/155758070/1de2c689-c218-4977-87fa-f5cb4a3b4592)
 
 Deployed application: https://deucedadorian.github.io/05-Third-Party-APIs-Work-Day-Scheduler/
